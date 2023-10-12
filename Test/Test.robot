@@ -8,7 +8,7 @@ Suite Teardown           Close All Browsers
 Test Template            Example Test
 
 *** Variables ***
-${CSV File}              leadP22_.csv
+${CSV File}              leadP22.csv
 
 *** Test Cases ***
 Example Test
